@@ -28,7 +28,7 @@ Overall, I am a well-rounded developer with experience in various aspects of sof
 
 
 <h1 align="left">Languages and Tools:</h1>
-<div style="align: center; display: flex; flex-direction: column; align-content: center; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; align-content: center; align-items: center;">
     <div style="align-self: center">
         <a> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="96" height="96"> </a>
         <a> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="96" height="96"> </a>
