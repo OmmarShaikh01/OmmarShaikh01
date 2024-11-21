@@ -1,8 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Ommar Shaikh </h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ommarshaikh20@gmail.com)
-<hr>
-
 <h1 align="left">Introduction</h1>
 
 **Ommar Shaikh | Full Stack Developer & Innovator**
