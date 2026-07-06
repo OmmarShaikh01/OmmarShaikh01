@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Ommar Shaikh</h1>
 
 <h3 align="center">
@@ -144,4 +143,3 @@ Email:
 ---
 
 > "Secure by Design. Automated by Default. Built to Scale."
-```
