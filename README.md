@@ -1,161 +1,147 @@
-# Ommar Shaikh
+```markdown
+<h1 align="center">Hi, I'm Ommar Shaikh</h1>
 
-### AI Automation Engineer | Cloud Infrastructure Architect | Full Stack Developer
+<h3 align="center">
+Cloud Engineer | Cybersecurity Specialist | Python Developer | AI Automation Engineer
+</h3>
 
-Building enterprise-grade AI systems, scalable automation pipelines, and cloud-native governance platforms.
+<p align="center">
+Building secure cloud infrastructure, automation platforms, AI-powered systems, and enterprise applications.
+</p>
 
 ---
 
 ## About Me
 
-I engineer AI-driven infrastructure and automation systems focused on scalability, compliance, and operational resilience. My work spans MLOps, cloud governance, identity lifecycle automation, and backend architecture across enterprise environments.
+- Cloud Infrastructure & DevOps Engineer
+- Cybersecurity and Security Automation
+- Python Backend Development
+- Kubernetes & Docker
+- AI Agents and LLM Integrations
+- Enterprise Automation
+- Linux Systems Administration
+- Open Source Contributor
+- Founder building products in Security and AI
 
-Currently building [Enforcer CCA](https://enforcer.io?utm_source=chatgpt.com) — a cloud governance and compliance platform focused on continuous compliance, self-healing infrastructure, AI-powered governance, and real-time drift detection.
-
-I specialize in:
-
-* Agentic AI systems
-* Enterprise automation
-* Cloud governance
-* DevSecOps workflows
-* High-availability backend infrastructure
-* Compliance-focused architecture
+I enjoy solving complex infrastructure, security, and automation problems while designing scalable production systems.
 
 ---
 
 ## Tech Stack
 
-### AI / MLOps
+### Languages
 
-* Python
-* LangChain
-* CrewAI
-* HuggingFace
-* MLflow
-* ChromaDB
-* FastAPI
-* LLM Pipelines
+- Python
+- JavaScript
+- TypeScript
+- Bash
+- SQL
+- PowerShell
 
-### Cloud / Infrastructure
+### Cloud
 
-* AWS
-* Kubernetes
-* Docker
-* Helm
-* Terraform
-* Azure AD
-* Exchange Online
+- AWS
+- Azure
+- Google Cloud
 
-### Automation / DevOps
+### DevOps
 
-* Prefect
-* Apache Airflow
-* PowerShell
-* ServiceNow
-* Event-Driven Systems
-* CI/CD Pipelines
+- Docker
+- Kubernetes
+- GitHub Actions
+- Terraform
+- Ansible
+- Nginx
+- Linux
 
-### Backend Engineering
+### Backend
 
-* Django
-* FastAPI
-* MongoDB
-* SQLAlchemy
-* REST APIs
-* OpenAPI
+- FastAPI
+- Flask
+- Django
+- REST APIs
+- GraphQL
 
-### Monitoring / Security
+### Databases
 
-* Grafana
-* Prometheus
-* RBAC
-* JIT Provisioning
-* DevSecOps
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
 
----
+### Security
 
-## Featured Project — Enforcer CCA
+- SIEM
+- Vulnerability Assessment
+- Penetration Testing
+- IAM
+- Network Security
+- Cloud Security
+- Secure Software Development
 
-### Enterprise Cloud Governance Platform
+### AI
 
-Enforcer CCA is an AI-powered governance and compliance platform designed for enterprise cloud and hybrid environments.
-
-### Core Capabilities
-
-* Continuous Compliance Monitoring
-* Real-Time Drift Detection
-* AI-Powered Policy Enforcement
-* Automated Remediation
-* Audit-Ready Governance
-* Kubernetes & AWS Governance
-* Infrastructure Self-Healing
-* Enterprise Security Compliance
-
-### Engineering Focus
-
-* Scalable distributed architecture
-* Infrastructure-as-Code governance
-* Automated compliance orchestration
-* Real-time observability
-* Policy-driven cloud operations
-* AI-assisted infrastructure intelligence
-
-This project demonstrates deep expertise in:
-
-* Cloud governance engineering
-* Enterprise architecture
-* Security automation
-* Infrastructure scalability
-* AI systems orchestration
-* Compliance automation
-
----
-
-## Experience Highlights
-
-### Senior Automation & AI Engineer — BAARTechnology
-
-* Reduced onboarding latency by 85% through automated AD and Exchange workflows
-* Built high-availability MLOps pipelines with 99.9% uptime
-* Engineered rollback-safe infrastructure validation systems
-* Integrated RBAC and compliance enforcement into enterprise automation
-* Automated ITSM workflows reducing resolution times from days to minutes
-
-### Backend Developer — PortfolioBuddy
-
-* Built scalable backend systems using Django and MongoDB
-* Integrated Keycloak authentication infrastructure
-* Containerized deployments using Docker Compose
-* Implemented observability with Grafana and Prometheus
-
----
-
-## Enterprise Scale Impact
-
-* 48,000+ Active Directory objects managed
-* 5,000+ enterprise users supported
-* 99.9% infrastructure uptime
-* 85% operational latency reduction
-* Enterprise-grade AI automation systems deployed
+- OpenAI APIs
+- LangChain
+- MCP
+- RAG
+- AI Agents
+- LLM Automation
 
 ---
 
 ## Current Focus
 
-* AI Infrastructure Automation
-* Agentic AI Systems
-* Cloud Governance Platforms
-* Kubernetes Security
-* Compliance Automation
-* Self-Healing Infrastructure
-* Enterprise MLOps
+- AI Security
+- Cloud Security
+- Kubernetes
+- Platform Engineering
+- Automation at Scale
+- SaaS Development
+- Security Products
+- Remote Engineering Opportunities
+
+---
+
+## Featured Projects
+
+### Apollo
+Open-source Windows music player written in Python featuring advanced playback, metadata management, audio conversion, and DSP support.
+
+### Enterprise Automation
+Building automation platforms integrating cloud services, AI, security tooling, and operational workflows.
+
+### Security Research
+Developing offensive and defensive security tools focused on automation and cloud-native environments.
+
+---
+
+## Certifications & Interests
+
+- Cloud Engineering
+- Cybersecurity
+- DevSecOps
+- AI Engineering
+- Infrastructure Automation
+- Platform Engineering
 
 ---
 
 ## Connect
 
-* GitHub: [GitHub](https://github.com?utm_source=chatgpt.com)
-* LinkedIn: [LinkedIn](https://linkedin.com?utm_source=chatgpt.com)
-* Portfolio: [Portfolio Website](https://example.com?utm_source=chatgpt.com)
+Portfolio:
+https://ommarshaikh01.github.io
+
+GitHub:
+https://github.com/OmmarShaikh01
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+Email:
+(Add your professional email)
 
 ---
+
+> "Secure by Design. Automated by Default. Built to Scale."
+```
