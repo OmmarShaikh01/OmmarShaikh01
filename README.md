@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ommar Shaikh</h1>
 
 <h3 align="center">
-Cloud Engineer | Cybersecurity Specialist | Python Developer | AI Automation Engineer
+Cloud Engineer | Python Developer | AI Automation Engineer
 </h3>
 
 <p align="center">
@@ -104,9 +104,6 @@ I enjoy solving complex infrastructure, security, and automation problems while 
 
 ## Featured Projects
 
-### Apollo
-Open-source Windows music player written in Python featuring advanced playback, metadata management, audio conversion, and DSP support.
-
 ### Enterprise Automation
 Building automation platforms integrating cloud services, AI, security tooling, and operational workflows.
 
@@ -114,12 +111,3 @@ Building automation platforms integrating cloud services, AI, security tooling, 
 Developing offensive and defensive security tools focused on automation and cloud-native environments.
 
 ---
-
-## Certifications & Interests
-
-- Cloud Engineering
-- Cybersecurity
-- DevSecOps
-- AI Engineering
-- Infrastructure Automation
-- Platform Engineering
