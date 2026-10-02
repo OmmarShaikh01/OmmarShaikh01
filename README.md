@@ -31,8 +31,6 @@ I enjoy solving complex infrastructure, security, and automation problems while 
 ### Languages
 
 - Python
-- JavaScript
-- TypeScript
 - Bash
 - SQL
 - PowerShell
@@ -99,15 +97,5 @@ I enjoy solving complex infrastructure, security, and automation problems while 
 - SaaS Development
 - Security Products
 - Remote Engineering Opportunities
-
----
-
-## Featured Projects
-
-### Enterprise Automation
-Building automation platforms integrating cloud services, AI, security tooling, and operational workflows.
-
-### Security Research
-Developing offensive and defensive security tools focused on automation and cloud-native environments.
 
 ---
